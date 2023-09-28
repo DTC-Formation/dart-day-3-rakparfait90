@@ -17,4 +17,9 @@ void main() {
   salohy.saluer(rakoto);
   rakoto.saluer(salohy);
   salohy.saluer(salohy);
+
+  while (true) {
+    var line = stdin.readLineSync();
+    print(line);
+  }
 }
