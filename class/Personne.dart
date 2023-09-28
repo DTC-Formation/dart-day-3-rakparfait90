@@ -1,3 +1,5 @@
+import 'Adresse.dart';
+
 class Personne {
   String? nom;
   String? prenom;
