@@ -1,5 +1,5 @@
-import 'Adresse.dart';
-import 'class.dart';
+import './class/Adresse.dart';
+import './class/Personne.dart';
 
 void main() {
   Adresse adr1 = Adresse("3H", "Tana", "Mada", 101);
